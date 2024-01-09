@@ -1,0 +1,436 @@
+{
+  "days":[
+    {
+      "word":"ⲉϩⲟⲟⲩ",
+      "pronunciation":"(eh-hoh-oo)",
+      "definition":"Day",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"The sun to rule by <strong>day</strong> Alleluia: His mercy endures forever\"",
+      "exampleCT":"\"Ⲫⲣⲏ ⲉ̀ⲟⲫⲉⲣϣⲓϣⲓ ⲛ̀ⲧⲉ <strong>ⲡⲓⲉ̀ϩⲟⲟⲩ</strong> ⲁ̅ⲗ̅: ϫⲉ ⲡⲉϥⲛⲁⲓ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ\"",
+      "source":"Midnight Praises, Second Canticle"
+    },
+    {
+      "word":"ⲕⲁⲗⲱⲥ",
+      "pronunciation":"(ca-low-s)",
+      "definition":"(Greek) Good, Righteous",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"It was truly, <strong>good</strong> caring, of the Saint, Mary Magdalene\"",
+      "exampleCT":"\"<strong>Ⲕⲁⲗⲱⲥ</strong> ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ: ⲁⲥϣⲱⲡⲓ ϧⲉⲛ ⲟⲩϥⲓⲣⲱⲟⲩϣ: ̀ⲛϫⲉ ⲑⲏⲉ̅ⲑ̅ⲩ̅ Ⲙⲁⲣⲓⲁ: ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ\"",
+      "source":"Midnight Praises, The Sunday Theotokia (18)"
+    },
+    {
+      "word":"ϩⲓⲟⲙⲓ",
+      "pronunciation":"(hey/hee-oh-me)",
+      "definition":"Women",
+      "partOfSpeech":"Plural Noun",
+      "exampleEN":"\"Blessed are you among <strong>women</strong>, blessed is the fruit of your womb\"",
+      "exampleCT":"\"ϫⲉ ⲧⲉ̀ⲥⲙⲁⲣⲱⲟⲩⲧ ̀ⲛⲑⲟ ϧⲉⲛ <strong>ⲛⲓϩⲓⲟⲙⲓ</strong>: ̀ϥ̀ⲥⲙⲁⲣⲱⲟⲩⲧ ̀ⲛϫⲉ ̀ⲡⲟⲩⲧⲁϩ ̀ⲛⲧⲉ ⲧⲉⲛⲉϫⲓ\"",
+      "source":"Vespers Praises, The Watos Lobsh/Second Shiraat"
+    },
+    {
+      "word":"ⲙⲁⲧⲟⲓ",
+      "pronunciation":"(ma-toy)",
+      "definition":"Soldier",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Therefore the <strong>soldiers</strong> did these things\"",
+      "exampleCT":"\"Ⲛⲁⲓ ⲟⲩⲛ ⲉ̀ⲧⲁⲩⲁⲓⲧⲟⲩ ⲛ̀ϫⲉ <strong>ⲛⲓⲙⲁⲧⲟⲓ</strong>\"",
+      "source":"Great Friday, 6th Hour Gospel - John 19:13-27"
+    },
+    {
+      "word":"ϩⲁⲗⲁϯ",
+      "pronunciation":"(ha-la-tee)",
+      "definition":"Bird",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Bless the Lord, all you <strong>birds</strong> of the sky\"",
+      "exampleCT":"\"Ⲥⲙⲟⲩ ̀ⲉⲠⲟ̅ⲥ̅ <strong>ⲛⲓϩⲁⲗⲁϯ</strong> ⲧⲏⲣⲟⲩ ̀ⲛⲧⲉ ⲧ̀ⲫⲉ\"",
+      "source":"Midnight Praises, The Third Canticle"
+    },
+    {
+      "word":"ⲁⲅⲁⲡⲏ",
+      "pronunciation":"(ah-gah-pe̅)",
+      "definition":"(Greek) Love",
+      "partOfSpeech":"Feminine Noun",
+      "exampleEN":"\"The <strong>love</strong> of God the Father, and the grace of the only-begotten Son\"",
+      "exampleCT":"\"Ⲏ<strong> ̀ⲁⲅⲁⲡⲏ</strong> ⲧⲟⲩ Ⲑⲉⲟⲩ Ⲡⲁⲧⲣⲟⲥ: ⲕⲉ ⲏ̀ ⲭⲁⲣⲓⲥ ⲧⲟⲩ ⲙⲟⲛⲟⲅⲉⲛⲟⲩⲥ\"",
+      "source":"Liturgy of the Word, Alternate Response to the Pauline Epistle"
+    },
+    {
+      "word":"ⲡⲓⲓⲟϩ",
+      "pronunciation":"(pay-oh)",
+      "definition":"[ⲡⲓ] - The, [ⲓⲟϩ] - moon",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"The <strong>moon</strong> and stars to rule by night Alleluia\"",
+      "exampleCT":"\"<strong>Ⲡⲓⲓⲟϩ</strong> ⲛⲉⲙ ⲛⲓⲥⲓⲟⲩ ⲉⲩⲉⲝⲟⲩⲥⲓⲁ ⲛ̀ⲧⲉ ⲡⲓ̀ⲉϫⲱⲣϩ ⲁ̅ⲗ̅\"",
+      "source":"Midnight Praises, The Second Canticle"
+    },
+    {
+      "word":"ⲁⲅⲓⲟⲥ",
+      "pronunciation":"(ah-gee-ohs)",
+      "definition":"(Greek) Holy",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"<strong>Holy</strong> God, <strong>Holy</strong> Mighty, <strong>Holy</strong> Immortal\"",
+      "exampleCT":"\"<strong>Ⲁⲅⲓⲟⲥ</strong> ̀ⲟ Ⲑⲉⲟⲥ:<strong> ⲁ̀ⲅⲓⲟⲥ</strong> ⲓⲥⲭⲩⲣⲟⲥ:<strong> ⲁ̀ⲅⲓⲟⲥ</strong> ⲁ̀ⲑⲁⲛⲁⲧⲟⲥ\"",
+      "source":"Liturgy of the Word, Trisagion"
+    },
+    {
+      "word":"ⲡⲓⲣⲁⲛ",
+      "pronunciation":"(Pe̅-rahn)",
+      "definition":"[ⲡⲓ] - The, [ⲣⲁⲛ] - name",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"O <strong>name</strong> full of glory, O <strong>name</strong> full of blessings\"",
+      "exampleCT":"\"Ⲱ <strong>ⲡⲓⲣⲁⲛ</strong> ⲉⲑⲙⲉϩ ⲛ̀ⲱⲟⲩ: ⲱ̀ <strong>ⲡⲓⲣⲁⲛ</strong> ⲉⲑⲙⲉϩ ⲛ̀ⲥ̀ⲙⲟⲩ\"",
+      "source":"Vespers Praises, Saturday Watos Psali"
+    },
+    {
+      "word":"ⲡϭⲟⲓⲥ",
+      "pronunciation":"(ep-chois)",
+      "definition":"[O] Lord",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Remember, <strong>O Lord</strong>, the others\"",
+      "exampleCT":"\"Ⲁⲣⲓⲫⲙⲉⲩⲓ̀ <strong>Ⲡϭⲟⲓⲥ</strong> ⲛ̀ⲛⲓⲕⲉⲭⲱⲟⲩⲛⲓ\"",
+      "source":"Gregorian Liturgy of the Faithful, Prayer for the Departed"
+    },
+    {
+      "word":"ⲫⲛⲟⲩϯ",
+      "pronunciation":"(ev/f-nouti)",
+      "definition":"[O] God",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"May <strong>God</strong> have compassion upon us\"",
+      "exampleCT":"\"<strong>Ⲫ̀ⲛⲟⲩϯ</strong> ⲉϥⲉ̀ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ  ⲉϥⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲛ\"",
+      "source":"Distribution, The Short Blessing"
+    },
+    {
+      "word":"ⲧⲏⲣⲟⲩ",
+      "pronunciation":"(tee-ro)",
+      "definition":"All",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"Come <strong>all</strong> you believers\"",
+      "exampleCT":"\"Ⲁⲙⲱⲓⲛⲓ <strong>ⲧⲏⲣⲟⲩ</strong> ⲛⲓⲡⲓⲥⲧⲟⲥ\"",
+      "source":"Midnight Praises, The Hymn for the Resurrection"
+    },
+    {
+      "word":"ⲉⲣⲫⲉⲓ",
+      "pronunciation":"(ayr-fay)",
+      "definition":"Sanctuary/Temple",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Blessed are You in the holy <strong>temple</strong> of Your glory\"",
+      "exampleCT":"\"Ⲕⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ϧⲉⲛ <strong>ⲡⲓⲉⲣⲫⲉⲓ</strong> ⲛ̀ⲧⲉ ⲡⲉⲕⲱ̀ⲟⲩ\"",
+      "source":"Midnight Praises, The Third Canticle"
+    },
+    {
+      "word":"ⲣⲟⲙⲡⲓ",
+      "pronunciation":"(roum-pi)",
+      "definition":"Year",
+      "partOfSpeech":"Feminine Noun",
+      "exampleEN":"\"Bless the crown of the <strong>year</strong> with Your goodness…\"",
+      "exampleCT":"\"Ⲥⲙⲟⲩ ⲉ̀ⲡⲓⲭ̀ⲗⲟⲙ ⲛ̀ⲧⲉ <strong>ϯⲣⲟⲙⲡⲓ</strong> ϩⲓⲧⲉⲛ ⲧⲉⲕⲙⲉⲧⲭ̀ⲣⲏⲥⲧⲟⲥ\"",
+      "source":"Liturgy of the Faithful, Litany of the Seeds and Herbs"
+    },
+    {
+      "word":"ϯⲃⲁⲕⲓ",
+      "pronunciation":"(tee-vah-key)",
+      "definition":" [ϯ] - The, [ⲃⲁⲕⲓ] - City",
+      "partOfSpeech":"Feminine Noun",
+      "exampleEN":"\"O Holy <strong>City</strong>, of the Great King\"",
+      "exampleCT":"\"<strong>ϯⲃⲁⲕⲓ</strong> ⲉ̅ⲑ̅ⲩ̅: ⲛ̀ⲧⲉ ⲡⲓⲛⲓϣϯ ⲛ̀ⲟⲩⲣⲟ\"",
+      "source":"Midnight Praises, The Sunday Theotokia(s)"
+    },
+    {
+      "word":"ⲡⲟⲩⲣⲟ",
+      "pronunciation":"(ep-ou-rou)",
+      "definition":"[O] King",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"<strong>O King of Peace</strong>\"",
+      "exampleCT":"\"<strong>Ⲡⲟⲩⲣⲟ</strong> ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ\"",
+      "source":"Liturgy of St. Basil, The Short Blessing"
+    },
+    {
+      "word":"ⲛⲟϥⲣⲓ",
+      "pronunciation":"(nouf-ree)",
+      "definition":"Happy, Blessed",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"But those things which are <strong>good</strong> and profitable do provide for us\"",
+      "exampleCT":"\"Ⲛⲏ ⲇⲉ ⲉⲑⲛⲁⲛⲉⲩ ⲛⲉⲙ <strong>ⲛⲏⲉ̀ⲧⲉⲣⲛⲟϥⲣⲓ</strong> ⲥⲁϩⲛⲓ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ\"",
+      "source":"Thanksgiving Prayer"
+    },
+    {
+      "word":"ⲡⲓⲱⲟⲩ",
+      "pronunciation":"(pe̅-oh-oo)",
+      "definition":"[ⲡⲓ] - The, [ⲱ̀ⲟⲩ] - Glory",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"<strong>Glory</strong> to the Father and the Son and the Holy Spirit\"",
+      "exampleCT":"\"</strong>Ⲡⲓ̀ⲱⲟⲩ</strong> ̀ⲙⲪⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̅ⲛ̅ⲁ̅ ⲉ̄̅ⲑ̅ⲩ̅\"",
+      "source":"Midnight Praises, Introduction to the Midnight Praises"
+    },
+    {
+      "word":"ⲕⲟⲩϫⲓ",
+      "pronunciation":"(coo-gee)",
+      "definition":"Small",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"I am <strong>small</strong> among my brothers\"",
+      "exampleCT":"\"Ⲁⲛⲟⲕ ⲡⲉ <strong>ⲡⲓⲕⲟⲩϫⲓ</strong> ⲛ̀ϧ̀ⲣⲏⲓ ϧⲉⲛ ⲛⲁⲥ̀ⲛⲏⲟⲩ\"",
+      "source":"Bright Saturday, Psalm 151"
+    },
+    {
+      "word":"ⲁⲝⲓⲟⲥ",
+      "pronunciation":"(ax-ey-oc)",
+      "definition":"(Greek) Worthy",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"<strong>Worthy</strong>, <strong>worthy</strong>, <strong>worthy</strong>\"",
+      "exampleCT":"\"<strong>Ⲁⲝⲓⲟⲥ ⲁⲝⲓⲟⲥ ⲁⲝⲓⲟⲥ</strong>\"",
+      "source":"Veneration, In the Name"
+    },
+    {
+      "word":"ⲡϣⲏⲣⲓ",
+      "pronunciation":"(ep-sheeree)",
+      "definition":"[The] Son",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Blessed be the Father and the <strong>Son</strong> and the Holy Spirit\"",
+      "exampleCT":"\"Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ <strong>Ⲡϣⲏⲣⲓ</strong> ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ\"",
+      "source":"Liturgy of the Faithful, Gospel Response"
+    },
+    {
+      "word":"ⲛⲓϫⲟⲙ",
+      "pronunciation":"(nee-gome)",
+      "definition":"[ⲛⲓ] - The (plural), [ϫⲟⲙ] - Hosts, Power",
+      "partOfSpeech":"Feminine Noun",
+      "exampleEN":"\"Let us praise the Lord of <strong>hosts</strong>\"",
+      "exampleCT":"\"ⲛ̀ⲧⲉⲛϩⲱⲥ ⲉ̀Ⲡⲟ̅ⲥ̅ ̀ⲛⲧⲉ <strong>ⲛⲓϫⲟⲙ</strong>\"",
+      "source":"Midnight Praises, Introduction to the Midnight Praises"
+    },
+    {
+      "word":"ⲡⲕⲁϩⲓ",
+      "pronunciation":"(ep-kah-hee)",
+      "definition":"[The] Earth",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Praise the Lord from the <strong>earth</strong>\"",
+      "exampleCT":"\"ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡⲟ̅ⲥ̅ ⲉ̀ⲃⲟⲗ ϧⲉⲛ <strong>ⲡ̀ⲕⲁϩⲓ</strong>\"",
+      "source":"Midnight Praises, The Fourth Canticle"
+    },
+    {
+      "word":"ⲭⲟⲣⲟⲥ",
+      "pronunciation":"(khoros)",
+      "definition":"Chorus, Choir",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Hail to the whole <strong>choir</strong> of the martyrs\"",
+      "exampleCT":"\"Ⲭⲉⲣⲉ <strong>ⲡ̀ⲭⲟⲣⲟⲥ</strong> ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ\"",
+      "source":"Morning Praises, Morning Doxology"
+    },
+    {
+      "word":"ⲛⲓⲃⲉⲛ",
+      "pronunciation":"(nee-ven)",
+      "definition":"Every, All",
+      "partOfSpeech":"Adjective",
+      "exampleEN":"\"for You have given us <strong>all</strong> things\"",
+      "exampleCT":"\"ϩⲱⲃ ⲅⲁⲣ <strong>ⲛⲓⲃⲉⲛ</strong> ⲁⲕⲧⲏⲓⲧⲟⲩ ⲛⲁⲛ\"",
+      "source":"Three Great Litanies, Litany of Peace"
+    },
+    {
+      "word":"ⲙⲁⲣⲉⲛ",
+      "pronunciation":"(ma-ren)",
+      "definition":"Let us",
+      "partOfSpeech":"Prefix",
+      "exampleEN":"\"<strong>Let us</strong> give thanks\"",
+      "exampleCT":"\"<strong>ⲙⲁⲣⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ</strong> ⲛ̀ⲧⲟⲧϥ\"",
+      "source":"Thanksgiving Prayer"
+    },
+    {
+      "word":"ⲡⲁⲗⲓⲛ",
+      "pronunciation":"(pah-leen)",
+      "definition":"(Greek) Again",
+      "partOfSpeech":"Adverb",
+      "exampleEN":"\"<strong>Again,</strong> let us give thanks to God\"",
+      "exampleCT":"\"<strong>Ⲡⲁⲗⲓⲛ</strong> ⲟⲛ ⲙⲁⲣⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀Ϥⲛⲟⲩϯ\"",
+      "source":"Liturgy of the Faithful, Introduction to the Fraction"
+    },
+    {
+      "word":"ⲡⲁⲓⲱⲧ",
+      "pronunciation":"(pa-yot)",
+      "Definition":"[ⲡⲁ] - My, [ⲓⲱⲧ] - Father",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"The peace of my <strong>Father</strong> I leave with you\"",
+      "exampleCT":"\"ⲧ̀ϩⲓⲣⲏⲛⲏ <strong>ⲙ̀Ⲡⲁⲓⲱⲧ</strong> ϯⲭⲱ ⲙ̀ⲙⲟⲥ ⲛⲉⲙⲱⲧⲉⲛ\"",
+      "source":"Midnight Praises, Conclusion of the Adam Theotokia"
+    },
+    {
+      "word":"ⲕⲩⲣⲓⲉ",
+      "pronunciation":"(kee-ree-eh)",
+      "Definition":"(Greek) Lord",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"<strong>Lord</strong> have mercy\"",
+      "exampleCT":"\"<strong>Ⲕⲩⲣⲓⲉ</strong> ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ\"",
+      "source":"Liturgy of the Faithful, The Seven Short Litanies"
+    },
+    {
+      "word":"ⲫⲛⲟⲃⲓ",
+      "pronunciation":"(ef-novi)",
+      "definition":"Sin",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"He became man like us except only for <strong>sin</strong>\"",
+      "exampleCT":"\"ⲁϥⲉⲣⲣⲱⲙⲓ ⲙ̀ⲡⲉⲛⲣⲏϯ ϣⲁⲧⲉⲛ <strong>ⲫ̀ⲛⲟⲃⲓ</strong> ⲙ̀ⲙⲁⲩⲁⲧϥ\"",
+      "source":"Matins, Verses of the Cymbals"
+    },
+    {
+      "word":"ϩⲓⲧⲉⲛ",
+      "pronunciation":"(hee-ten)",
+      "definition":"Through",
+      "partOfSpeech":"Preposition",
+      "exampleEN":"\"<strong>Through</strong> the intercessions, of the Theotokos Saint Mary\"",
+      "exampleCT":"\"<strong>Ϩⲓⲧⲉⲛ</strong> ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ ⲛ̀ⲧⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ\"",
+      "source":"Liturgy of the Word, Hymn of the Intercessions"
+    },
+    {
+      "word":"ⲡⲁⲛⲏⲃ",
+      "pronunciation":"(pi-neeb)",
+      "definition":"[ⲡⲁ] - My, [ⲛⲏⲃ] - Master",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"You, O my <strong>Master</strong> have turned for me the punishment into salvation\"",
+      "exampleCT":"\"Ⲛⲑⲟⲕ <strong>ⲡⲁⲛⲏⲃ</strong> ⲁⲕⲫⲱⲛϩ ⲛⲏⲓ ⲛ̀ϯⲧⲓⲙⲱⲣⲓⲁ ⲉ̀ⲟⲩⲟⲩϫⲁⲓ\"",
+      "source":"Gregorian Liturgy of the Word, Holy Holy Holy (ⲁⲅⲓⲟⲥ, ⲁⲅⲓⲟⲥ, ⲁⲅⲓⲟⲥ)"
+    },
+    {
+      "word":"ⲡⲉⲕⲙⲁ",
+      "pronunciation":"(pek-mah)",
+      "definition":"[ⲡⲉⲕ] - Your (Masculine), [ⲙⲁ] - Dwelling Place",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Your <strong>Sanctuary</strong>, O Lord\"",
+      "exampleCT":"\"<strong>Ⲡⲉⲕⲙⲁ </strong> ⲉ︦ⲑ︦ⲩ︦ Ⲡⲟ︦ⲥ︦\"",
+      "source":"Midnight Praises, The First Canticle"
+    },
+    {
+      "word":"ⲥⲛⲏⲟⲩ",
+      "pronunciation":"(ec-ney-oh)",
+      "definition":"Bretheren",
+      "partOfSpeech":"Plural Noun",
+      "exampleEN":"\"Pray for our fathers and our  <strong>bretheren</strong>\"",
+      "exampleCT":"\"Ⲧⲟⲃϩ ⲉ̀ϫⲉⲛ ⲛⲉⲛⲓⲟϯ ⲛⲉⲙ <strong>ⲛⲉⲛⲥ̀ⲛⲏⲟⲩ</strong>\"",
+      "source":"Matins, Litany of the Sick"
+    },
+    {
+      "word":"ϯⲛⲁϩϯ",
+      "pronunciation":"(tee-nah-tee)",
+      "definition":"I believe",
+      "partOfSpeech":"Verb",
+      "exampleEN":"\"<strong>I believe</strong> that this is true.\"",
+      "exampleCT":"\"<strong>Ϯⲛⲁϩϯ</strong> ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ\"",
+      "source":"Liturgy of the Faithful, The Confession"
+    },
+    {
+      "word":"ⲥⲱⲧⲏⲣ",
+      "pronunciation":"(so-teer)",
+      "definition":"Savior",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Our Lord, God, <strong>Savior</strong>, and King of us all\"",
+      "exampleCT":"\"Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ <strong>ⲡⲉⲛⲥⲱⲧⲏⲣ</strong> ⲟⲩⲟϩ ⲡⲉⲛⲟⲩⲣⲟ ⲧⲏⲣⲉⲛ\"",
+      "source":"Liturgy of the Faithful, Prayer of Reconciliation"
+    },
+    {
+      "word":"ⲡⲓⲃⲱⲕ",
+      "pronunciation":"(pi-vok)",
+      "definition":"[ⲡⲓ] - The, [ⲃⲱⲕ] - Servant",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"Seek your <strong>servant</strong>\"",
+      "exampleCT":"\"ⲉ̀ⲁϥⲧⲁⲕⲟ ⲕⲟϯ ⲛ̀ⲥⲁ <strong>ⲡⲉⲕⲃⲱⲕ</strong>\"",
+      "source":"Midnight Praises, Introduction to the Midnight Praises"
+    },
+    {
+      "word":"ϩⲓⲧⲉⲛ",
+      "pronunciation":"(hee-ten)",
+      "definition":"Through",
+      "partOfSpeech":"Preposition",
+      "exampleEN":"\"<strong>Through</strong> the intercessions\"",
+      "exampleCT":"\"<strong>Ϩⲓⲧⲉⲛ</strong> ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ\"",
+      "source":"Liturgy of the Word, Hymn of the Intercessions"
+    },
+    {
+      "word":"ⲕⲁⲩⲙⲁ",
+      "pronunciation":"(kav-mah)",
+      "definition":"(Greek) Heat",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"O you cold and fire and <strong>heat</strong>\"",
+      "exampleCT":"\"ⲡⲓϫⲁϥ ⲛⲉⲙ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ <strong>ⲡⲓⲕⲁⲩⲙⲁ</strong>\"",
+      "source":"Midnight Praises, Greek Watos Psali for the Three Saintly Children"
+    },
+    {
+      "word":"ⲣⲏⲧⲱⲥ",
+      "pronunciation":"(ree-tos)",
+      "definition":"(Greek) Explicitly, Truly, Expressly",
+      "partOfSpeech":"Adverb",
+      "exampleEN":"\"And we cry out <strong>fervently</strong>: with great splendor: saying, 'Hail to you, O Virgin: the Lord is with you.'\"",
+      "exampleCT":"\"Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ <strong>ⲣⲏⲧⲱⲥ</strong>: ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲙ̀ⲙⲉⲧⲥⲁⲓⲥ: ϫⲉ ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲟⲩⲟϩ Ⲡⲟ̅ⲥ̅ ϣⲟⲡ ⲛⲉⲙⲉ.\"",
+      "source":"Kiahk Distribution Hymn, Efempesha Ghar"
+    },
+    {
+      "word":"ⲡⲓϧⲱⲕ",
+      "pronunciation":"(pi-khok)",
+      "definition":"[ⲡⲓ] - the, [ϧⲱⲕ] - girdle, breast plate, military arms",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"The spiritual raiment, envelops Michael, and <strong>the girdle</strong> of jewels, Michael has donned.\"",
+      "exampleCT":"\"Ϯⲥ̀ⲧⲟⲗⲏ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ: ⲁⲩϯϩⲓⲱⲧϥ ⲙ̀Ⲙⲓⲭⲁⲏⲗ: ⲟⲩⲟϩ <strong>ⲡⲓϧⲱⲕ</strong> ⲙ̀ⲙⲁⲣⲅⲁⲣⲓⲧⲏⲥ: ⲁⲩⲙⲏⲣ ⲙ̀Ⲙⲓⲭⲁⲏⲗ ⲙ̀ⲙⲟϥ.\"",
+      "source":"Veneration, Hymn for Archangel Michael"
+    },
+    {
+      "word":"ⲅⲉⲛⲉⲁ",
+      "pronunciation":"(ge-ne-a)",
+      "definition":"(Greek) generation",
+      "partOfSpeech":"Feminine Noun",
+      "exampleEN":"\"Every <strong>generation</strong> that was from, Adam to this day, find Raphael, a fortress for mankind.\"",
+      "exampleCT":"\"<strong>Ⲅⲉⲛⲉⲁ̀</strong> ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϣⲱⲡⲓ: ⲓⲥϫⲉⲛ Ⲁ̀ⲇⲁⲙ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲙ̀ⲫⲟⲟⲩ: ⲥⲉϫⲓⲙⲓ ⲅⲁⲣ ⲛ̀Ⲣⲁⲫⲁⲏⲗ: ⲉϥⲟⲓ ⲛ̀ⲥⲟⲃⲧ ⲉ̀ϯⲙⲉⲧⲣⲱⲙⲓ.\"",
+      "source":"Veneration, Hymn for Archangel Raphael"
+    },
+    {
+      "word":"ϧⲉⲗⲗⲟ",
+      "pronunciation":"(khel-lo)",
+      "definition":"elderly man, monk",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"the forty-nine martyrs, the <strong>elder</strong>s of Shiheet",
+      "exampleCT":"\"ⲛⲉⲙ ⲡⲓⲙ̅ⲑ̅ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ ⲛⲓ<strong>ϧⲉⲗⲗⲟ</strong>ⲓ ⲛ̀ⲧⲉ Ϣⲓϩⲏⲧ\"",
+      "source":"Liturgy of the Faithful, Commemoration of the Saints"
+    },
+    {
+      "word":"ϭⲁⲧϥⲓ",
+      "pronunciation":"(chat-fi)",
+      "definition":"reptiles, creeping animals",
+      "partOfSpeech":"Plural Noun",
+      "exampleEN":"\"Beasts and all cattle Alleluia. <strong>Creeping things</strong> and flying birds.\"",
+      "exampleCT":"\"Ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲛⲓⲧⲉⲃⲛⲱⲟⲩⲓ̀ ⲧⲏⲣⲟⲩ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ. Ⲛⲓ<strong>ϭⲁⲧϥⲓ</strong> ⲛⲉⲙ ⲛⲓϩⲁⲗⲁϯ ⲉⲧⲟⲓ ⲛ̀ⲧⲉⲛϩ.\"",
+      "source":"Midnight Praises, The Fourth Canticle"
+    },
+    {
+      "word":"ⲥⲱⲧⲉⲙ",
+      "pronunciation":"(so-tem)",
+      "definition":"to hear, to listen, to obey",
+      "partOfSpeech":"verb",
+      "exampleEN":"\"<strong>Hear</strong> O daughter, and see, and incline your ear. Forget your own people also, and your father´s house.\"",
+      "exampleCT":"\"<strong>Ⲥⲱⲧⲉⲙ</strong> ⲧⲁϣⲉⲣⲓ ⲁ̀ⲛⲁⲩ ⲣⲉⲕ ⲡⲉⲙⲁϣϫ: ⲁ̀ⲣⲓⲡ̀ⲱⲃϣ ⲙ̀ⲡⲉⲗⲁⲟⲥ ⲛⲉⲙ ⲡ̀ⲏⲓ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲡⲉⲓⲱⲧ.\"",
+      "source":"Liturgy of the Word, Psalm for 2nd Sunday of Kiahk"
+    },
+    {
+      "word":"ⲧⲟⲩⲃⲟ",
+      "pronunciation":"(tou-vo)",
+      "definition":"purification, purity, holiness",
+      "partOfSpeech":"Masculine Noun",
+      "exampleEN":"\"The crown of our pride, the head of our salvation, the confirmation of our <strong>purity</strong>, is the Virgin Mary.\"",
+      "exampleCT":"\"Ⲡⲓⲭ̀ⲗⲟⲙ ⲛ̀ⲧⲉ ⲡⲉⲛϣⲟⲩϣⲟⲩ: ⲧ̀ⲁ̀ⲡⲁⲣⲭⲏ ⲙ̀ⲡⲉⲛⲥⲱϯ: ⲡ̀ⲧⲁϫⲣⲟ ⲙ̀ⲡⲉⲛ<strong>ⲧⲟⲩⲃⲟ</strong>: ⲡⲉ Ⲙⲁⲣⲓⲁ Ϯⲡⲁⲣⲑⲉⲛⲟⲥ.\"",
+      "source":"Midnight Praises, Tuesday Theotokia"
+    },
+    {
+      "word":"ⲕⲏⲧⲟⲥ",
+      "pronunciation":"(kee-tos)",
+      "definition":"whale",
+      "partOfSpeech":"(Greek) Masculine Noun",
+      "exampleEN":"\"Bless the Lord O you <strong>whale</strong>s and all that moves in the waters, praise Him and exalt Him above all forever.\"",
+      "exampleCT":"\"Ⲥⲙⲟⲩ ⲉ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲓ<strong>ⲕⲏⲧⲟⲥ</strong> ⲛⲉⲙ ⲉⲛⲭⲁⲓ ⲛⲓⲃⲉⲛ ⲉⲧⲕⲓⲙ ϧⲉⲛ ⲛⲓⲙⲱⲟⲩ: ϩⲱⲥ ⲉ̀ⲣⲟϥ ⲁ̀ⲣⲓϩⲟⲩⲟ̀ ϭⲁⲥϥ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.\"",
+      "source":"Midinght Praises, The Third Canticle"
+    },
+    {
+      "word":"ⲃⲁⲧⲟⲥ",
+      "pronunciation":"(va-tos)",
+      "definition":"bush, small tree",
+      "partOfSpeech":"(Greek) Masculine Noun",
+      "exampleEN":"\"The <strong>bush</strong> which Moses, has seen in the wilderness, and the fire that was in it, did not burn its branches.\"",
+      "exampleCT":"\"Ⲡⲓ<strong>ⲃⲁⲧⲟⲥ</strong> ⲉ̀ⲧⲁ Ⲙⲱⲩ̀ⲥⲏⲥ: ⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲉ̀ⲃⲟⲗ ϩⲓ ⲡ̀ϣⲁϥⲉ: ⲉ̀ⲣⲉ ⲡⲓⲭ̀ⲣⲱⲙ ⲙⲟϩ ⲛ̀ϧⲏⲧϥ: ⲟⲩⲇⲉ ⲙ̀ⲡⲟⲩⲣⲱⲕϩ ⲛ̀ϫⲉ ⲛⲉϥⲕ̀ⲗⲁⲇⲟⲥ.\"",
+      "source":"Midinght Praises, The Thursday Theotokia"
+    }
+  ]
+}
