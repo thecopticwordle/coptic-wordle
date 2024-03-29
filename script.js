@@ -5,9 +5,8 @@ var input = "";
 var letters = [];
 //var hints = 0;
 var wod;
-var test;
 var day = 24 * 60 * 60 * 1000
-var day0 = 1672549201000-day;
+var day0 = (1711744141000)-day;
 
 function currentDay() {
   var d = Date.now();
@@ -28,9 +27,7 @@ function word() {
     })
     .then(async (json) => {
       wod = json;
-      test=json;
       wod = json.days[currentDay()];
-      console.log(json.days[0]);
       target = wod.word;
       if(cday==currentDay()){
         //alert(cday);
